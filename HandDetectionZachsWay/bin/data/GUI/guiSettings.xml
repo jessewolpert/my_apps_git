@@ -1,0 +1,10 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>NEAR THRESHOLD</Name>
+    <Value>279.276336670</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>FAR THRESHOLD</Name>
+    <Value>239.802627563</Value>
+</Widget>
